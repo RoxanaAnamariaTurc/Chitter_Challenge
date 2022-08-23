@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "6301f78f90343f4946e5e401"
+  },
+  "text": "first message",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1390402619301"
+    }
+  },
+  "username": "Roxi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6301f79390343f4946e5e403"
+  },
+  "text": "first message",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1390402619301"
+    }
+  },
+  "username": "Roxi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6301f79c90343f4946e5e405"
+  },
+  "text": "second message",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1421938619301"
+    }
+  },
+  "username": "Roxi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630232fb547e39268d9f58fa"
+  },
+  "text": "hello",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661088507324"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63023310547e39268d9f59d0"
+  },
+  "text": "there",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661088528810"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63028793f2fd9fd92607dc66"
+  },
+  "text": "Hello everyone!",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661110163425"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63032426f2fd9fd92608f075"
+  },
+  "text": "Good morning",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661150246954"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63036d4f4dd332d16dd4c082"
+  },
+  "text": "testMessage",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661168975710"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63036dab4dd332d16dd4c7df"
+  },
+  "text": "Peep peep peep",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661169067221"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63036edf4dd332d16dd4ee7a"
+  },
+  "text": "Peep peep peep",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661169375583"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63036ee04dd332d16dd4ee8d"
+  },
+  "text": "Peep peep peep",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661169376250"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63036ee04dd332d16dd4ee9d"
+  },
+  "text": "Peep peep peep",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661169376817"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63036ee14dd332d16dd4eeaf"
+  },
+  "text": "Peep peep peep",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1661169377383"
+    }
+  },
+  "__v": 0
+}]

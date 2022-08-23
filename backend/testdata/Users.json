@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6301eec7bc16641d9f3b32aa"
+  },
+  "name": "vlad",
+  "email": "vlad@vlad.com",
+  "password": "pass",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630236b9547e39268d9f63ca"
+  },
+  "name": "Rox",
+  "email": "rox@gmail.com",
+  "password": "12345",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630246c5547e39268d9f8181"
+  },
+  "name": "xyz",
+  "email": "vlad@xyz.com",
+  "password": "abc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630248a6547e39268d9f928e"
+  },
+  "name": "testuser",
+  "email": "testuser@email.com",
+  "password": "123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63028786f2fd9fd92607dbe9"
+  },
+  "name": "roxana",
+  "email": "roxi@gmail.com",
+  "password": "123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63029318f2fd9fd926082abe"
+  },
+  "name": "Paula",
+  "email": "pau@yahoo.com",
+  "password": "123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63036d424dd332d16dd4bee4"
+  },
+  "name": "Name",
+  "email": "user@email.com",
+  "password": "22082022",
+  "__v": 0
+}]

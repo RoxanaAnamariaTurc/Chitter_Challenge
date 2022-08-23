@@ -1,0 +1,11 @@
+html {
+  text-align: center;
+  /* background-color: rgba(103, 95, 120, 0.369); */
+  background-image: url(img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Monaco', monospace;
+
+
+}
