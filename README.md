@@ -1,3 +1,5 @@
+## Chitter Challenge
+
 ### Project Objectives
 
 This project aims to use all the technologies taught in the last 3 months of Software Engineering Academy and create a full stack app that will be a small twitter clone. 
